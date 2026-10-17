@@ -29,13 +29,13 @@
       "predicate": {
         "custom_model_data": 58710
       },
-      "model": "item/sunmoon_wizard/sun_wizard_full"
+      "model": "item/sunmoon_wizard/sun_wizard_hat"
     },
     {
       "predicate": {
         "custom_model_data": 58720
       },
-      "model": "item/sunmoon_wizard/moon_wizard_full"
+      "model": "item/sunmoon_wizard/moon_wizard_hat"
     }
   ]
 }
