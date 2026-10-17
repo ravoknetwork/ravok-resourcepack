@@ -5,6 +5,7 @@
     128
   ],
   "textures": {
+    "0": "item/sunmoon_wizard/3",
     "1": "item/sunmoon_wizard/3",
     "particle": "item/sunmoon_wizard/3"
   },
@@ -694,15 +695,20 @@
       ]
     },
     "head": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
       "translation": [
         0,
-        -58,
-        8.75
+        -8.0,
+        1.0
       ],
       "scale": [
-        1.65,
-        1.65,
-        1.65
+        1.0,
+        1.0,
+        1.0
       ]
     }
   },
