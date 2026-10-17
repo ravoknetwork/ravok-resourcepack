@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/ice_witch","particle":"#0"},"elements":[{"from":[8.0,6.5,2.0],"to":[8.0,9.5,8.0],"faces":{"east":{"uv":[16.0,15.25,14.5,16.0],"tintindex":0,"rotation":0,"texture":"#0"},"west":{"uv":[14.5,15.25,16.0,16.0],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}}}

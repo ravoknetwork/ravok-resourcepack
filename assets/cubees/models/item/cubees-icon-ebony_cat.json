@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cubees:witches_wizards/cubee-ebony_cat"
+  }
+}

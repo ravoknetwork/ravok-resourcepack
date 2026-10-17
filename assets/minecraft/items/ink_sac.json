@@ -1,0 +1,145 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/ink_sac"
+    },
+    "entries": [
+      {
+        "threshold": 18800,
+        "model": {
+          "type": "minecraft:model",
+          "model": "ravok_dinos:item/icons/icon_amargasaurus_baby"
+        }
+      },
+      {
+        "threshold": 18801,
+        "model": {
+          "type": "minecraft:model",
+          "model": "ravok_dinos:item/icons/icon_anklysaurus_baby"
+        }
+      },
+      {
+        "threshold": 18802,
+        "model": {
+          "type": "minecraft:model",
+          "model": "ravok_dinos:item/icons/icon_apatosaurus_baby"
+        }
+      },
+      {
+        "threshold": 18803,
+        "model": {
+          "type": "minecraft:model",
+          "model": "ravok_dinos:item/icons/icon_argentinosaurus_baby"
+        }
+      },
+      {
+        "threshold": 18804,
+        "model": {
+          "type": "minecraft:model",
+          "model": "ravok_dinos:item/icons/icon_brachiosaurus_baby"
+        }
+      },
+      {
+        "threshold": 18805,
+        "model": {
+          "type": "minecraft:model",
+          "model": "ravok_dinos:item/icons/icon_carnotaurus_baby"
+        }
+      },
+      {
+        "threshold": 18806,
+        "model": {
+          "type": "minecraft:model",
+          "model": "ravok_dinos:item/icons/icon_ceratosaurus_baby"
+        }
+      },
+      {
+        "threshold": 18807,
+        "model": {
+          "type": "minecraft:model",
+          "model": "ravok_dinos:item/icons/icon_dilophosaurus_baby"
+        }
+      },
+      {
+        "threshold": 18808,
+        "model": {
+          "type": "minecraft:model",
+          "model": "ravok_dinos:item/icons/icon_diplodocus_baby"
+        }
+      },
+      {
+        "threshold": 18809,
+        "model": {
+          "type": "minecraft:model",
+          "model": "ravok_dinos:item/icons/icon_gigantosaurus_baby"
+        }
+      },
+      {
+        "threshold": 18810,
+        "model": {
+          "type": "minecraft:model",
+          "model": "ravok_dinos:item/icons/icon_gorgosaurus_baby"
+        }
+      },
+      {
+        "threshold": 18811,
+        "model": {
+          "type": "minecraft:model",
+          "model": "ravok_dinos:item/icons/icon_majungasaurus_baby"
+        }
+      },
+      {
+        "threshold": 18812,
+        "model": {
+          "type": "minecraft:model",
+          "model": "ravok_dinos:item/icons/icon_parasaurolophus_baby"
+        }
+      },
+      {
+        "threshold": 18813,
+        "model": {
+          "type": "minecraft:model",
+          "model": "ravok_dinos:item/icons/icon_pterodactyl_baby"
+        }
+      },
+      {
+        "threshold": 18814,
+        "model": {
+          "type": "minecraft:model",
+          "model": "ravok_dinos:item/icons/icon_spinosaurus_baby"
+        }
+      },
+      {
+        "threshold": 18815,
+        "model": {
+          "type": "minecraft:model",
+          "model": "ravok_dinos:item/icons/icon_stygimoloch_baby"
+        }
+      },
+      {
+        "threshold": 18816,
+        "model": {
+          "type": "minecraft:model",
+          "model": "ravok_dinos:item/icons/icon_t-rex_baby"
+        }
+      },
+      {
+        "threshold": 18817,
+        "model": {
+          "type": "minecraft:model",
+          "model": "ravok_dinos:item/icons/icon_triceratops_baby"
+        }
+      },
+      {
+        "threshold": 18818,
+        "model": {
+          "type": "minecraft:model",
+          "model": "ravok_dinos:item/icons/icon_velociraptor_baby"
+        }
+      }
+    ]
+  }
+}

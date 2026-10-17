@@ -1,0 +1,75 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/yellow_dye"
+    },
+    "entries": [
+      {
+        "threshold": 121,
+        "model": {
+          "type": "model",
+          "model": "lemon_mcpets:item/pet_category_common"
+        }
+      },
+      {
+        "threshold": 122,
+        "model": {
+          "type": "model",
+          "model": "lemon_mcpets:item/pet_category_rare"
+        }
+      },
+      {
+        "threshold": 123,
+        "model": {
+          "type": "model",
+          "model": "lemon_mcpets:item/pet_category_epic"
+        }
+      },
+      {
+        "threshold": 124,
+        "model": {
+          "type": "model",
+          "model": "lemon_mcpets:item/pet_category_legendary"
+        }
+      },
+      {
+        "threshold": 125,
+        "model": {
+          "type": "model",
+          "model": "lemon_mcpets:item/pet_item_name"
+        }
+      },
+      {
+        "threshold": 126,
+        "model": {
+          "type": "model",
+          "model": "lemon_mcpets:item/pet_item_mount"
+        }
+      },
+      {
+        "threshold": 127,
+        "model": {
+          "type": "model",
+          "model": "lemon_mcpets:item/pet_item_inventory"
+        }
+      },
+      {
+        "threshold": 128,
+        "model": {
+          "type": "model",
+          "model": "lemon_mcpets:item/pet_item_back"
+        }
+      },
+      {
+        "threshold": 129,
+        "model": {
+          "type": "model",
+          "model": "lemon_mcpets:item/pet_item_skin"
+        }
+      }
+    ]
+  }
+}

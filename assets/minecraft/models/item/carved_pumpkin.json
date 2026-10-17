@@ -1,0 +1,41 @@
+{
+  "parent": "block/carved_pumpkin",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 58701
+      },
+      "model": "item/sunmoon_wizard/sun_wizard_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58703
+      },
+      "model": "item/sunmoon_wizard/sun_wizard_cloak"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58704
+      },
+      "model": "item/sunmoon_wizard/moon_wizard_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58706
+      },
+      "model": "item/sunmoon_wizard/moon_wizard_cloak"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58710
+      },
+      "model": "item/sunmoon_wizard/sun_wizard_full"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58720
+      },
+      "model": "item/sunmoon_wizard/moon_wizard_full"
+    }
+  ]
+}

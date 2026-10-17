@@ -1,0 +1,56 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/golden_horse_armor"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 7191156
+      },
+      "model": "cubees:item/cubees-icon-arctic_witch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7191157
+      },
+      "model": "cubees:item/cubees-icon-ebony_cat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7191158
+      },
+      "model": "cubees:item/cubees-icon-forest_keeper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7191159
+      },
+      "model": "cubees:item/cubees-icon-gothic_hag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7191160
+      },
+      "model": "cubees:item/cubees-icon-meowgician"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7191161
+      },
+      "model": "cubees:item/cubees-icon-skelly_warlock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7191162
+      },
+      "model": "cubees:item/cubees-icon-soul_weaver"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7191163
+      },
+      "model": "cubees:item/cubees-icon-wishing_teddy"
+    }
+  ]
+}

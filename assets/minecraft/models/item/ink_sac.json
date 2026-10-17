@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/ink_sac"
+  },
+    "overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "littleroom_borealdruid:boreal_druid_icespike_1"},
+		{"predicate": {"custom_model_data":2}, "model": "littleroom_borealdruid:boreal_druid_icespike_2"},
+		{"predicate": {"custom_model_data":3}, "model": "littleroom_borealdruid:boreal_druid_icespike_3"}
+        ]
+}

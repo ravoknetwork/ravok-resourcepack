@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/netherite_chestplate"
+    },
+    "entries": [
+      {
+        "threshold": 58703,
+        "model": {
+          "type": "model",
+          "model": "item/sunmoon_wizard/sun_wizard_cloak"
+        }
+      },
+      {
+        "threshold": 58706,
+        "model": {
+          "type": "model",
+          "model": "item/sunmoon_wizard/moon_wizard_cloak"
+        }
+      }
+    ]
+  }
+}

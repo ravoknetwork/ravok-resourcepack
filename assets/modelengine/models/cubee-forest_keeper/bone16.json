@@ -1,0 +1,1 @@
+{"textures":{"1":"modelengine:entity/cubee-forest_keeper_vfx","particle":"#1"},"elements":[{"from":[5.0,4.0,8.0],"to":[11.0,12.0,8.0],"faces":{"south":{"uv":[3.21875,7.125,2.875,7.59375],"tintindex":0,"rotation":0,"texture":"#1"},"north":{"uv":[2.875,7.125,3.21875,7.59375],"tintindex":0,"rotation":0,"texture":"#1"}}}],"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}}}

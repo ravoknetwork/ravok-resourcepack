@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/trident"
+    },
+    "entries": [
+      {
+        "threshold": 58600,
+        "model": {
+          "type": "model",
+          "model": "item/boreal_staff"
+        }
+      }
+    ]
+  }
+}

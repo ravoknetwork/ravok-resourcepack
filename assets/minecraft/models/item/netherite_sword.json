@@ -1,0 +1,122 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_sword"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 58500
+      },
+      "model": "item/nyrath_blade_v13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58600
+      },
+      "model": "item/boreal_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58702
+      },
+      "model": "item/sunmoon_wizard/sun_wizard_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58705
+      },
+      "model": "item/sunmoon_wizard/moon_wizard_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58801
+      },
+      "model": "item/elemental_staffs/blossom_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58802
+      },
+      "model": "item/elemental_staffs/dark_forest_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58803
+      },
+      "model": "item/elemental_staffs/eclipse_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58804
+      },
+      "model": "item/elemental_staffs/end_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58805
+      },
+      "model": "item/elemental_staffs/fern_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58806
+      },
+      "model": "item/elemental_staffs/geode_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58807
+      },
+      "model": "item/elemental_staffs/hydra_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58808
+      },
+      "model": "item/elemental_staffs/light_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58809
+      },
+      "model": "item/elemental_staffs/nether_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58810
+      },
+      "model": "item/elemental_staffs/ocean_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58811
+      },
+      "model": "item/elemental_staffs/penitence_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58812
+      },
+      "model": "item/elemental_staffs/redstone_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58813
+      },
+      "model": "item/elemental_staffs/shadow_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58814
+      },
+      "model": "item/elemental_staffs/totem_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58815
+      },
+      "model": "item/elemental_staffs/wind_staff"
+    }
+  ]
+}

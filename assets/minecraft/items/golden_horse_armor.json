@@ -1,0 +1,68 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/golden_horse_armor"
+    },
+    "entries": [
+      {
+        "threshold": 7191156,
+        "model": {
+          "type": "minecraft:model",
+          "model": "cubees:item/cubees-icon-arctic_witch"
+        }
+      },
+      {
+        "threshold": 7191157,
+        "model": {
+          "type": "minecraft:model",
+          "model": "cubees:item/cubees-icon-ebony_cat"
+        }
+      },
+      {
+        "threshold": 7191158,
+        "model": {
+          "type": "minecraft:model",
+          "model": "cubees:item/cubees-icon-forest_keeper"
+        }
+      },
+      {
+        "threshold": 7191159,
+        "model": {
+          "type": "minecraft:model",
+          "model": "cubees:item/cubees-icon-gothic_hag"
+        }
+      },
+      {
+        "threshold": 7191160,
+        "model": {
+          "type": "minecraft:model",
+          "model": "cubees:item/cubees-icon-meowgician"
+        }
+      },
+      {
+        "threshold": 7191161,
+        "model": {
+          "type": "minecraft:model",
+          "model": "cubees:item/cubees-icon-skelly_warlock"
+        }
+      },
+      {
+        "threshold": 7191162,
+        "model": {
+          "type": "minecraft:model",
+          "model": "cubees:item/cubees-icon-soul_weaver"
+        }
+      },
+      {
+        "threshold": 7191163,
+        "model": {
+          "type": "minecraft:model",
+          "model": "cubees:item/cubees-icon-wishing_teddy"
+        }
+      }
+    ]
+  }
+}

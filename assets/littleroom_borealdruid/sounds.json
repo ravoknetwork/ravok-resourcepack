@@ -1,0 +1,99 @@
+{
+    "littleroom.borealdruid.owl_flap": {
+        "sounds": [
+            "littleroom/boreal_druid/owl_flap"
+        ]
+    },
+    "littleroom.borealdruid.mammoth_step": {
+        "sounds": [
+            "littleroom/boreal_druid/mammoth_step_1",
+            "littleroom/boreal_druid/mammoth_step_2",
+            "littleroom/boreal_druid/mammoth_step_3",
+            "littleroom/boreal_druid/mammoth_step_4"
+        ]
+    },
+    "littleroom.borealdruid.druid_death": {
+        "sounds": [
+            "littleroom/boreal_druid/druid_death"
+        ]
+    },
+    "littleroom.borealdruid.druid_swing": {
+        "sounds": [
+            "littleroom/boreal_druid/druid_swing_1",
+            "littleroom/boreal_druid/druid_swing_2",
+            "littleroom/boreal_druid/druid_swing_3",
+            "littleroom/boreal_druid/druid_swing_4"
+        ]
+    },
+    "littleroom.borealdruid.druid_vox": {
+        "sounds": [
+            "littleroom/boreal_druid/druid_vox_1",
+            "littleroom/boreal_druid/druid_vox_2",
+            "littleroom/boreal_druid/druid_vox_3",
+            "littleroom/boreal_druid/druid_vox_4",
+            "littleroom/boreal_druid/druid_vox_5"
+        ]
+    },
+    "littleroom.borealdruid.ice_beam": {
+        "sounds": [
+            "littleroom/boreal_druid/ice_beam"
+        ]
+    },
+    "littleroom.borealdruid.ice_blast": {
+        "sounds": [
+            "littleroom/boreal_druid/ice_blast_1",
+            "littleroom/boreal_druid/ice_blast_2"
+        ]
+    },
+    "littleroom.borealdruid.ice_sweep": {
+        "sounds": [
+            "littleroom/boreal_druid/ice_sweep_1",
+            "littleroom/boreal_druid/ice_sweep_2"
+        ]
+    },
+    "littleroom.borealdruid.mammoth_vox": {
+        "sounds": [
+            "littleroom/boreal_druid/mammoth_vox_1",
+            "littleroom/boreal_druid/mammoth_vox_2",
+            "littleroom/boreal_druid/mammoth_vox_3",
+            "littleroom/boreal_druid/mammoth_vox_4",
+            "littleroom/boreal_druid/mammoth_vox_5"
+        ]
+    },
+    "littleroom.borealdruid.owl_vox": {
+        "sounds": [
+            "littleroom/boreal_druid/owl_vox_1",
+            "littleroom/boreal_druid/owl_vox_2"
+        ]
+    },
+    "littleroom.borealdruid.player_freeze": {
+        "sounds": [
+            "littleroom/boreal_druid/player_freeze"
+        ]
+    },
+    "littleroom.borealdruid.snow_impact": {
+        "sounds": [
+            "littleroom/boreal_druid/snow_impact_1",
+            "littleroom/boreal_druid/snow_impact_2",
+            "littleroom/boreal_druid/snow_impact_3"
+        ]
+    },
+    "littleroom.borealdruid.snow_impact_large": {
+        "sounds": [
+            "littleroom/boreal_druid/snow_impact_large"
+        ]
+    },
+    "littleroom.borealdruid.mammoth_hit": {
+        "sounds": [
+            "littleroom/boreal_druid/mammoth_hit_1",
+            "littleroom/boreal_druid/mammoth_hit_2",
+            "littleroom/boreal_druid/mammoth_hit_3"
+        ]
+    },
+    "littleroom.borealdruid.mammoth_swing": {
+        "sounds": [
+            "littleroom/boreal_druid/mammoth_swing_1",
+            "littleroom/boreal_druid/mammoth_swing_2"
+        ]
+    }
+}

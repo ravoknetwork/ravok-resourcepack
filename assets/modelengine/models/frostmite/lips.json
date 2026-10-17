@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/frostmite","particle":"#0"},"elements":[{"from":[5.0,8.0,5.0],"to":[11.0,8.0,8.0],"faces":{"up":{"uv":[6.75,9.75,6.0,9.375],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[7.5,9.375,6.75,9.75],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}}}

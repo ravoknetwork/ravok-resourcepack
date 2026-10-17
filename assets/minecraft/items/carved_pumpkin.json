@@ -1,0 +1,54 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "block/carved_pumpkin"
+    },
+    "entries": [
+      {
+        "threshold": 58701,
+        "model": {
+          "type": "model",
+          "model": "item/sunmoon_wizard/sun_wizard_hat"
+        }
+      },
+      {
+        "threshold": 58703,
+        "model": {
+          "type": "model",
+          "model": "item/sunmoon_wizard/sun_wizard_cloak"
+        }
+      },
+      {
+        "threshold": 58704,
+        "model": {
+          "type": "model",
+          "model": "item/sunmoon_wizard/moon_wizard_hat"
+        }
+      },
+      {
+        "threshold": 58706,
+        "model": {
+          "type": "model",
+          "model": "item/sunmoon_wizard/moon_wizard_cloak"
+        }
+      },
+      {
+        "threshold": 58710,
+        "model": {
+          "type": "model",
+          "model": "item/sunmoon_wizard/sun_wizard_full"
+        }
+      },
+      {
+        "threshold": 58720,
+        "model": {
+          "type": "model",
+          "model": "item/sunmoon_wizard/moon_wizard_full"
+        }
+      }
+    ]
+  }
+}

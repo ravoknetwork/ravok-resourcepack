@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/netherite_helmet"
+    },
+    "entries": [
+      {
+        "threshold": 58701,
+        "model": {
+          "type": "model",
+          "model": "item/sunmoon_wizard/sun_wizard_hat"
+        }
+      },
+      {
+        "threshold": 58704,
+        "model": {
+          "type": "model",
+          "model": "item/sunmoon_wizard/moon_wizard_hat"
+        }
+      }
+    ]
+  }
+}

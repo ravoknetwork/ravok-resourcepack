@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/boreal_druid_2","particle":"#0"},"elements":[{"from":[0.0,8.0,8.0],"to":[8.0,8.0,17.0],"faces":{"up":{"uv":[1.25,5.25,0.25,4.125],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[0.25,4.125,1.25,5.25],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}}}
