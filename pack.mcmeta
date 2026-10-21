@@ -1,10 +1,13 @@
 {
   "pack": {
-    "pack_format": 15,
+    "pack_format": 97,
     "min_format": 15,
     "max_format": 32767,
-    "supported_formats": [15, 32767],
-    "description": "Pre-zipped Model Engine Resource Pack"
+    "supported_formats": [
+      15,
+      32767
+    ],
+    "description": "§b§l✦ RAVOK — 3ª Temporada (26.3) ✦\n§7Textura Oficial • Kayzel Edition"
   },
   "overlays": {
     "entries": [
