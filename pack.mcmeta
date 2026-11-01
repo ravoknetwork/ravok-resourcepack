@@ -1,49 +1,18 @@
 {
   "pack": {
     "pack_format": 97,
-    "min_format": 15,
-    "max_format": 32767,
+    "min_format": [
+      15,
+      0
+    ],
+    "max_format": [
+      97,
+      2147483647
+    ],
     "supported_formats": [
       15,
-      32767
+      64
     ],
-    "description": "§b§l✦ RAVOK — 3ª Temporada (26.3) ✦\n§7Textura Oficial • Kayzel Edition"
-  },
-  "overlays": {
-    "entries": [
-      {
-        "min_format": 36,
-        "max_format": 32767,
-        "formats": {
-          "min_inclusive": 36,
-          "max_inclusive": 32767
-        },
-        "directory": "1_21_2"
-      },
-      {
-        "min_format": 55,
-        "max_format": 32767,
-        "formats": {
-          "min_inclusive": 55,
-          "max_inclusive": 32767
-        },
-        "directory": "1_21_5"
-      },
-      {
-        "min_format": 63,
-        "max_format": 32767,
-        "formats": {
-          "min_inclusive": 63,
-          "max_inclusive": 32767
-        },
-        "directory": "1_21_6"
-      }
-    ]
-  },
-  "sodium": {
-    "ignored_shaders": [
-      "rendertype_entity_translucent.fsh",
-      "rendertype_entity_translucent.vsh"
-    ]
+    "description": "§6§lRAVOK NETWORK §f— §e3ª Temporada (Solstício)§r\n§7Texturas de Outono, Chaves Físicas e Ranks"
   }
 }

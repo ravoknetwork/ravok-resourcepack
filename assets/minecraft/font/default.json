@@ -2,10 +2,7 @@
   "providers": [
     {
       "type": "space",
-      "advances": {
-        "": -278,
-        "": -256
-      }
+      "advances": {}
     },
     {
       "type": "bitmap",
@@ -8663,15 +8660,6 @@
       "height": 52,
       "chars": [
         ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:tbstudio/esc.png",
-      "ascent": 128,
-      "height": 256,
-      "chars": [
-        ""
       ]
     },
     {

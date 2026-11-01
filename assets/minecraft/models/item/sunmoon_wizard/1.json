@@ -5,8 +5,8 @@
     128
   ],
   "textures": {
-    "0": "item/sunmoon_wizard/1",
-    "particle": "item/sunmoon_wizard/1"
+    "0": "minecraft:item/sunmoon_wizard/1",
+    "particle": "minecraft:item/sunmoon_wizard/1"
   },
   "elements": [
     {

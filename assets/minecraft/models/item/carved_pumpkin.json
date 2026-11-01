@@ -1,5 +1,5 @@
 {
-  "parent": "block/carved_pumpkin",
+  "parent": "minecraft:item/carved_pumpkin",
   "overrides": [
     {
       "predicate": {
@@ -29,13 +29,13 @@
       "predicate": {
         "custom_model_data": 58710
       },
-      "model": "item/sunmoon_wizard/sun_wizard_hat"
+      "model": "item/sunmoon_wizard/sun_wizard_full"
     },
     {
       "predicate": {
         "custom_model_data": 58720
       },
-      "model": "item/sunmoon_wizard/moon_wizard_hat"
+      "model": "item/sunmoon_wizard/moon_wizard_full"
     }
   ]
 }
